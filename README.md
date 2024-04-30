@@ -10,5 +10,5 @@ i have made two simple files that describe basic oop concepts
 first one is about classes and its methods
 second one is about inheritance of classes
 the link that contain code files and pdf of oop :
-
+https://github.com/HEGAZYI/python_oop
 "enjoy coding"
